@@ -24,3 +24,8 @@ Mở `http://localhost:4173`.
 - `design-system/`: định hướng UI/UX đã dùng
 
 Giao diện dùng các pattern từ UI Main/shadcn (button, badge, dialog/lightbox, scroll area, table) nhưng được viết dependency-free để GitHub Pages chạy ổn định, không cần build.
+
+## Typography refinement
+- Vietnamese-safe system font stacks.
+- Reduced project heading scale and simplified article hierarchy.
+- Concise linked table of contents and semantic task overviews.
