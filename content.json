@@ -1,0 +1,2064 @@
+{
+  "1": [
+    {
+      "type": "p",
+      "text": "Họ và Tên:Phạm Thị Huyền Nhi",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Mssv:25042241",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Nghành: Ngôn ngữ và văn hóa Nhật Bản",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Trường: Đại học Ngoại Ngữ - ĐHQGHN",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "1. Mở File Explorer: Nhấn tổ hợp phím Windows + E hoặc nhấp vào biểu tượng thư mục màu vàng trên thanh tác vụ.",
+      "style": "normal"
+    },
+    {
+      "type": "image",
+      "src": "bai-1-01.png"
+    },
+    {
+      "type": "p",
+      "text": "2. Truy cập ổ đĩa/thư mục: Ở cột bên trái, nhấp vào This PC, sau đó nhấp đúp vào một ổ đĩa không phải ổ hệ thống (ví dụ: ổ D: hoặc E:). Nếu chỉ có ổ C:, hãy vào thư mục Documents.",
+      "style": "normal"
+    },
+    {
+      "type": "image",
+      "src": "bai-1-02.png"
+    },
+    {
+      "type": "p",
+      "text": "3. Tạo thư mục mới:",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Nhấp chuột phải vào một khoảng trống -> chọn New -> Folder.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Đặt tên thư mục là ThucHanh_hotensinhvien (ví dụ: ThucHanh_NguyenVanA). Nhấn Enter.",
+      "style": "normal"
+    },
+    {
+      "type": "image",
+      "src": "bai-1-03.png"
+    },
+    {
+      "type": "p",
+      "text": "4. Vào thư mục vừa tạo: Nhấp đúp vào thư mục ThucHanh_NguyenVanA.",
+      "style": "normal"
+    },
+    {
+      "type": "image",
+      "src": "bai-1-04.png"
+    },
+    {
+      "type": "p",
+      "text": "5. Tạo tệp tin văn bản:",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Nhấp chuột phải vào khoảng trống -> New -> Text Document.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Đặt tên là GhiChu.txt. Nhấn Enter.",
+      "style": "normal"
+    },
+    {
+      "type": "image",
+      "src": "bai-1-05.png"
+    },
+    {
+      "type": "p",
+      "text": "6. Đổi tên tệp tin:",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Nhấp chuột phải vào tệp GhiChu.txt -> chọn Rename.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Đổi tên thành GhiChuQuanTrong.txt. Nhấn Enter.",
+      "style": "normal"
+    },
+    {
+      "type": "image",
+      "src": "bai-1-06.png"
+    },
+    {
+      "type": "p",
+      "text": "7. Tạo thư mục con:",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Trong thư mục ThucHanh_NguyenVanA, nhấp chuột phải -> New -> Folder.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Đặt tên là TaiLieu.",
+      "style": "normal"
+    },
+    {
+      "type": "image",
+      "src": "bai-1-07.png"
+    },
+    {
+      "type": "p",
+      "text": "8. Sao chép tệp tin (Copy & Paste):",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Nhấp chuột phải vào tệp GhiChuQuanTrong.txt -> chọn Copy (hoặc chọn tệp rồi nhấn Ctrl + C).",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Nhấp đúp vào thư mục TaiLieu, nhấp chuột phải vào khoảng trống bên trong -> chọn Paste (hoặc nhấn Ctrl + V). Bây giờ bạn có một bản sao của tệp trong thư mục TaiLieu.",
+      "style": "normal"
+    },
+    {
+      "type": "image",
+      "src": "bai-1-08.png"
+    },
+    {
+      "type": "p",
+      "text": "9. Di chuyển tệp tin (Cut & Paste):",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Quay lại thư mục ThucHanh_NguyenVanA. Tạo một tệp mới tên là DiChuyen.txt.",
+      "style": "normal"
+    },
+    {
+      "type": "image",
+      "src": "bai-1-09.png"
+    },
+    {
+      "type": "p",
+      "text": "Nhấp chuột phải vào tệp DiChuyen.txt -> chọn Cut (hoặc chọn tệp rồi nhấn Ctrl + X).",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Nhấp đúp vào thư mục TaiLieu, nhấp chuột phải vào khoảng trống -> chọn Paste (hoặc nhấn Ctrl + V). Tệp gốc đã biến mất khỏi vị trí cũ và chỉ còn ở vị trí mới.",
+      "style": "normal"
+    },
+    {
+      "type": "image",
+      "src": "bai-1-10.png"
+    },
+    {
+      "type": "p",
+      "text": "10. Xóa tệp tin:",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Trong thư mục TaiLieu, nhấp chuột phải vào tệp GhiChuQuanTrong.txt -> chọn Delete.",
+      "style": "normal"
+    },
+    {
+      "type": "image",
+      "src": "bai-1-11.png"
+    },
+    {
+      "type": "p",
+      "text": "Tệp sẽ được chuyển vào Thùng rác (Recycle Bin).",
+      "style": "normal"
+    },
+    {
+      "type": "image",
+      "src": "bai-1-12.png"
+    },
+    {
+      "type": "p",
+      "text": "11. Xóa vĩnh viễn:",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Chọn tệp DiChuyen.txt, nhấn giữ phím Shift và nhấn phím Delete. Một cảnh báo sẽ hiện ra.",
+      "style": "normal"
+    },
+    {
+      "type": "image",
+      "src": "bai-1-13.png"
+    },
+    {
+      "type": "p",
+      "text": "Nếu đồng ý, tệp sẽ bị xóa vĩnh viễn mà không qua Thùng rác.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "12. Khôi phục từ Thùng rác (Tùy chọn):",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Tìm biểu tượng Recycle Bin trên màn hình nền, nhấp đúp để mở. Tìm tệp GhiChuQuanTrong.txt đã xóa, nhấp chuột phải vào nó và chọn Restore.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Tệp sẽ quay trở lại vị trí ban đầu.",
+      "style": "normal"
+    },
+    {
+      "type": "image",
+      "src": "bai-1-14.png"
+    }
+  ],
+  "2": [
+    {
+      "type": "p",
+      "text": "1. Chủ đề nghiên cứu",
+      "style": "Heading 2"
+    },
+    {
+      "type": "p",
+      "text": "“Khả năng sử dụng manga có furigana để hỗ trợ sinh viên học kanji và từ vựng tiếng Nhật”",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "2. Lý do lựa chọn chủ đề",
+      "style": "Heading 2"
+    },
+    {
+      "type": "p",
+      "text": "Kanji và từ vựng là những nội dung tương đối khó đối với sinh viên Việt Nam học tiếng Nhật. Một chữ kanji có thể có nhiều cách đọc, đồng thời ý nghĩa của từ còn phụ thuộc vào từ ghép và ngữ cảnh.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Manga có ưu điểm là kết hợp chữ viết, hình ảnh, biểu cảm và tình huống hội thoại. Nhiều manga dành cho thiếu niên có furigana bên cạnh kanji, giúp người đọc biết cách đọc chữ mà không phải tra cứu liên tục. Tuy nhiên, manga cũng chứa tiếng lóng, cách nói rút gọn và lời thoại mang đặc trưng nhân vật. Vì vậy, manga nên được xem là tài liệu bổ trợ chứ không thay thế giáo trình.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Nghiên cứu trực tiếp về tác động riêng của manga có furigana đối với người học tiếng Nhật còn tương đối hạn chế. Do đó, báo cáo sử dụng thêm các nghiên cứu về đọc mở rộng, graded readers, chiến lược học kanji và hoạt động đọc manga để đánh giá khả năng ứng dụng của loại tài liệu này. Các nghiên cứu về đọc mở rộng tiếng Nhật cho thấy hoạt động đọc phù hợp trình độ có thể hỗ trợ từ vựng, khả năng đọc và thái độ học tập; graded readers còn giúp giảm gánh nặng do kanji gây ra. ERIC",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "3. Mục tiêu nghiên cứu",
+      "style": "Heading 2"
+    },
+    {
+      "type": "p",
+      "text": "Báo cáo nhằm:",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Tìm hiểu lợi ích tiềm năng của manga có furigana trong việc học kanji và từ vựng.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Xác định những hạn chế khi sử dụng manga làm tài liệu học tiếng Nhật.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Đánh giá độ tin cậy của các nguồn tài liệu liên quan.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Đề xuất cách sử dụng manga phù hợp với sinh viên Ngôn ngữ Nhật.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "4. Phương pháp tìm kiếm",
+      "style": "Heading 2"
+    },
+    {
+      "type": "p",
+      "text": "Em tìm kiếm tài liệu trên Google Scholar, ERIC, J-STAGE, SpringerLink và các trang của tổ chức giáo dục tiếng Nhật.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Các từ khóa được sử dụng gồm:",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "manga Japanese language learning",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "furigana kanji learning",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Japanese extensive reading vocabulary",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Japanese graded readers kanji",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "日本語学習 漫画",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "ふりがな 漢字学習",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "ベトナム人 日本語学習者 漢字",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Tài liệu được lựa chọn khi có tác giả, năm xuất bản, phương pháp hoặc cơ sở lý thuyết rõ ràng và có liên quan đến ít nhất một trong các nội dung: manga, đọc mở rộng, furigana, kanji hoặc từ vựng tiếng Nhật.",
+      "style": "normal"
+    },
+    {
+      "type": "image",
+      "src": "bai-2-01.png"
+    },
+    {
+      "type": "p",
+      "text": "5. Bảng tổng hợp nguồn tài liệu",
+      "style": "Heading 2"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "STT",
+          "Nguồn tài liệu",
+          "Nội dung và đánh giá"
+        ],
+        [
+          "1",
+          "Allen và Ingulsrud, 2005",
+          "Phân tích cách thanh thiếu niên đọc manga và vai trò của cộng đồng người đọc. Nguồn có giá trị trong việc hiểu tính đa phương thức và động lực đọc, nhưng không trực tiếp đo kết quả học tiếng Nhật. Taylor & Francis Online"
+        ],
+        [
+          "2",
+          "Senoo và Yonemoto, 2014",
+          "Nghiên cứu quá trình học từ vựng tiếng Nhật qua đọc mở rộng bằng kiểm tra trước, sau và phỏng vấn. Độ tin cậy cao vì nghiên cứu tập trung trực tiếp vào người học tiếng Nhật. ERIC"
+        ],
+        [
+          "3",
+          "Leung, 2002",
+          "Nhật ký nghiên cứu trong 20 tuần cho thấy đọc mở rộng có thể hỗ trợ từ vựng, đọc hiểu và thái độ tích cực. Hạn chế là chỉ nghiên cứu một trường hợp. ERIC"
+        ],
+        [
+          "4",
+          "Nakano, 2016",
+          "Nghiên cứu graded readers với sinh viên quốc tế tại Nhật Bản. Tài liệu đơn giản hóa giúp người học tiếp cận tác phẩm khó hơn và làm quen với từ vựng, kanji. ERIC"
+        ],
+        [
+          "5",
+          "Nakano, 2023",
+          "Nghiên cứu graded readers có đánh dấu từ loại. Nhóm sử dụng văn bản hỗ trợ có xu hướng đạt kết quả nhận diện từ tốt hơn và đọc nhanh hơn. ERIC"
+        ],
+        [
+          "6",
+          "Haththotuwa Gamage, 2026",
+          "Phân tích chiến lược học kanji của người học có nền tảng chữ viết khác nhau. Nguồn mới, có quy trình bình duyệt và tập trung trực tiếp vào chiến lược học kanji. Springer"
+        ],
+        [
+          "7",
+          "Phan Thi My Loan và cộng sự, 2021",
+          "Phỏng vấn người Việt học tiếng Nhật cho thấy âm Hán Việt có thể hỗ trợ học kanji nhưng cũng có nguy cơ gây nhiễu khi nghĩa không tương ứng. J-STAGE"
+        ],
+        [
+          "8",
+          "Mushiawake và Sugawara, 2010",
+          "Nghiên cứu nhấn mạnh việc chọn số lượng từ kanji thiết yếu nhằm giảm áp lực và duy trì động lực cho người mới học. J-STAGE"
+        ],
+        [
+          "9",
+          "Okuyama, 2007",
+          "Nghiên cứu ảnh hưởng của romaji trong chương trình học từ vựng tiếng Nhật có hỗ trợ máy tính. Nguồn giúp so sánh furigana với các hình thức hỗ trợ cách đọc khác. ERIC"
+        ],
+        [
+          "10",
+          "Day và Bamford, 1998",
+          "Sách chuyên khảo nền tảng về đọc mở rộng, nhấn mạnh việc đọc số lượng lớn tài liệu phù hợp trình độ và sở thích. Cambridge English Shop"
+        ],
+        [
+          "11",
+          "NPO Tadoku Supporters",
+          "Nguồn mở cung cấp graded readers được chia cấp độ cho người học tiếng Nhật, giúp người mới bắt đầu đọc lượng lớn văn bản dễ tiếp cận. NPO多言語多読"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "6. Phân tích kết quả",
+      "style": "Heading 2"
+    },
+    {
+      "type": "p",
+      "text": "Lợi ích tiềm năng",
+      "style": "Heading 3"
+    },
+    {
+      "type": "p",
+      "text": "Manga có furigana giúp người học tiếp cận kanji mà chưa cần nhớ hoàn toàn cách đọc. Hình ảnh và tình huống cũng cung cấp thêm dữ kiện để suy đoán nghĩa của từ. Khi một từ xuất hiện nhiều lần trong các tình huống khác nhau, người học có cơ hội củng cố sự liên kết giữa kanji, cách đọc và ý nghĩa.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Manga còn có thể làm tăng động lực đọc. Người học được tự lựa chọn chủ đề mình quan tâm và có cảm giác đang tiếp cận sản phẩm văn hóa thật thay vì chỉ hoàn thành bài tập trong giáo trình.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Hạn chế",
+      "style": "Heading 3"
+    },
+    {
+      "type": "p",
+      "text": "Furigana có thể khiến người học chỉ nhìn cách đọc bằng hiragana mà không chú ý đến hình dạng kanji. Ngoài ra, lời thoại manga thường có:",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Tiếng lóng và từ tượng thanh.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Cách nói rút gọn.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Ngôn ngữ giới tính hoặc đặc trưng nhân vật.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Câu thiếu chủ ngữ và thành phần ngữ pháp.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Cách nói không phù hợp với giao tiếp trang trọng.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Vì nghiên cứu trực tiếp về manga có furigana còn ít, chưa thể kết luận rằng đọc manga tự động giúp tăng đáng kể năng lực kanji. Có thể suy luận rằng manga hiệu quả hơn khi được kết hợp với chiến lược đọc mở rộng, ghi chép từ có chọn lọc và hoạt động ôn tập. ERIC",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "7. Đề xuất cách học",
+      "style": "Heading 2"
+    },
+    {
+      "type": "p",
+      "text": "Sinh viên có thể áp dụng quy trình:",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Chọn manga có nội dung đời thường và phù hợp trình độ.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Đọc một lượt để hiểu nội dung, không tra tất cả từ mới.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Chọn tối đa 5–7 từ quan trọng trong mỗi chương.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Ghi lại kanji, furigana, nghĩa và câu gốc.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Kiểm tra cách dùng bằng từ điển hoặc giáo trình.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Đọc lại và che phần furigana để tự nhớ cách đọc.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Không sử dụng trực tiếp cách nói của nhân vật khi chưa hiểu ngữ cảnh.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "8. Kết luận",
+      "style": "Heading 2"
+    },
+    {
+      "type": "p",
+      "text": "Manga có furigana có tiềm năng trở thành tài liệu bổ trợ hấp dẫn cho việc học kanji và từ vựng. Điểm mạnh chính nằm ở hình ảnh, ngữ cảnh, sự lặp lại và động lực đọc. Tuy nhiên, furigana không bảo đảm người học sẽ ghi nhớ kanji, còn ngôn ngữ manga không phải lúc nào cũng phù hợp với đời sống thực tế.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Do đó, manga nên được sử dụng cùng giáo trình, từ điển và hoạt động ôn tập có mục tiêu.",
+      "style": "normal"
+    }
+  ],
+  "3": [
+    {
+      "type": "p",
+      "text": "I. Ba tác vụ được lựa chọn",
+      "style": "Heading 2"
+    },
+    {
+      "type": "p",
+      "text": "Tóm tắt bài đọc về văn hóa Nhật Bản",
+      "style": "Heading 2"
+    },
+    {
+      "type": "p",
+      "text": "Phân biệt ba loại kính ngữ",
+      "style": "Heading 2"
+    },
+    {
+      "type": "p",
+      "text": "Tạo bài luyện JLPT N4",
+      "style": "Heading 2"
+    },
+    {
+      "type": "p",
+      "text": "II. Tác vụ 1: Tóm tắt bài đọc về văn hóa Nhật Bản",
+      "style": "Heading 2"
+    },
+    {
+      "type": "p",
+      "text": "Prompt cơ bản",
+      "style": "Heading 3"
+    },
+    {
+      "type": "p",
+      "text": "Hãy tóm tắt bài đọc sau về văn hóa Nhật Bản:",
+      "style": "normal"
+    },
+    {
+      "type": "image",
+      "src": "bai-3-01.png"
+    },
+    {
+      "type": "image",
+      "src": "bai-3-02.png"
+    },
+    {
+      "type": "p",
+      "text": "Prompt cải tiến",
+      "style": "Heading 3"
+    },
+    {
+      "type": "p",
+      "text": "Hãy tóm tắt bài đọc sau trong khoảng 180 từ. Nêu chủ đề chính, ba ý quan trọng và năm từ khóa. Trình bày bằng tiếng Việt, giữ nguyên thuật ngữ tiếng Nhật và không bổ sung thông tin ngoài tài liệu.",
+      "style": "normal"
+    },
+    {
+      "type": "image",
+      "src": "bai-3-03.png"
+    },
+    {
+      "type": "p",
+      "text": "Prompt nâng cao",
+      "style": "Heading 3"
+    },
+    {
+      "type": "p",
+      "text": "Bạn là giảng viên ngành Ngôn ngữ Nhật. Hãy tóm tắt tài liệu cho sinh viên trình độ N4–N3.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Đầu ra gồm:",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Luận điểm chính trong một câu.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Bản tóm tắt 180–220 từ.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Năm từ khóa tiếng Nhật kèm cách đọc và nghĩa.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Hai câu hỏi phản biện.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Chỉ sử dụng thông tin trong tài liệu. Nếu nội dung chưa đủ căn cứ, hãy ghi rõ.",
+      "style": "normal"
+    },
+    {
+      "type": "image",
+      "src": "bai-3-04.png"
+    },
+    {
+      "type": "p",
+      "text": "III. Tác vụ 2: Phân biệt ba loại kính ngữ",
+      "style": "Heading 2"
+    },
+    {
+      "type": "p",
+      "text": "Prompt cơ bản",
+      "style": "Heading 3"
+    },
+    {
+      "type": "p",
+      "text": "Giải thích 尊敬語, 謙譲語 và 丁寧語.",
+      "style": "normal"
+    },
+    {
+      "type": "image",
+      "src": "bai-3-05.png"
+    },
+    {
+      "type": "p",
+      "text": "Prompt cải tiến",
+      "style": "Heading 3"
+    },
+    {
+      "type": "p",
+      "text": "Hãy giải thích sự khác nhau giữa 尊敬語, 謙譲語 và 丁寧語 cho sinh viên trình độ N3. Lập bảng so sánh và cho hai ví dụ cho mỗi loại.",
+      "style": "normal"
+    },
+    {
+      "type": "image",
+      "src": "bai-3-06.png"
+    },
+    {
+      "type": "p",
+      "text": "Prompt nâng cao",
+      "style": "Heading 3"
+    },
+    {
+      "type": "p",
+      "text": "Bạn là giáo viên tiếng Nhật hướng dẫn sinh viên Việt Nam. Hãy giải thích ba loại kính ngữ theo cấu trúc:",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Đối tượng được nâng lên hoặc hạ xuống.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Bảng cấu trúc và ví dụ.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Chuyển năm câu thông thường sang cách nói phù hợp.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Nêu ba lỗi người Việt dễ mắc.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Tạo năm câu trắc nghiệm kèm giải thích.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Mỗi ví dụ phải có tình huống và quan hệ giữa người nói với người nghe.",
+      "style": "normal"
+    },
+    {
+      "type": "image",
+      "src": "bai-3-07.png"
+    },
+    {
+      "type": "p",
+      "text": "IV. Tác vụ 3: Tạo bài luyện JLPT N4",
+      "style": "Heading 2"
+    },
+    {
+      "type": "p",
+      "text": "Prompt cơ bản",
+      "style": "Heading 3"
+    },
+    {
+      "type": "p",
+      "text": "Tạo 15 câu hỏi ngữ pháp JLPT N4.",
+      "style": "normal"
+    },
+    {
+      "type": "image",
+      "src": "bai-3-08.png"
+    },
+    {
+      "type": "p",
+      "text": "Prompt cải tiến",
+      "style": "Heading 3"
+    },
+    {
+      "type": "p",
+      "text": "Tạo bài luyện JLPT N4 gồm 10 câu trắc nghiệm và 5 câu sửa lỗi. Nội dung tập trung vào ～ながら, ～と思います, ～なければなりません và ～てもいいです. Có đáp án và giải thích.",
+      "style": "normal"
+    },
+    {
+      "type": "image",
+      "src": "bai-3-09.png"
+    },
+    {
+      "type": "p",
+      "text": "Prompt nâng cao",
+      "style": "Heading 3"
+    },
+    {
+      "type": "p",
+      "text": "Bạn là giáo viên thiết kế bài ôn tập JLPT N4 cho sinh viên ngành Ngôn ngữ Nhật.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Hãy tạo bài kiểm tra 25 phút gồm:",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "8 câu trắc nghiệm;",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "4 câu điền từ;",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "4 câu sắp xếp câu;",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "4 câu dịch Việt–Nhật.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Sắp xếp từ dễ đến khó, sử dụng tình huống ở trường, thư viện, ký túc xá và nơi làm thêm. Từ vựng không vượt quá N4 nếu không có chú thích. Cung cấp đáp án và giải thích ngắn.",
+      "style": "normal"
+    },
+    {
+      "type": "image",
+      "src": "bai-3-10.png"
+    },
+    {
+      "type": "p",
+      "text": "V. So sánh kết quả",
+      "style": "Heading 2"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Tiêu chí",
+          "Prompt cơ bản",
+          "Prompt cải tiến",
+          "Prompt nâng cao"
+        ],
+        [
+          "Đúng yêu cầu",
+          "6/10",
+          "8/10",
+          "9/10"
+        ],
+        [
+          "Phù hợp trình độ",
+          "5/10",
+          "8/10",
+          "10/10"
+        ],
+        [
+          "Bố cục rõ ràng",
+          "4/10",
+          "8/10",
+          "10/10"
+        ],
+        [
+          "Có thể sử dụng ngay",
+          "5/10",
+          "8/10",
+          "9/10"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Prompt cơ bản nhanh nhưng kết quả thường chung chung. Prompt cải tiến hiệu quả hơn vì có độ dài, nội dung và hình thức đầu ra. Prompt nâng cao tốt nhất do xác định vai trò, đối tượng, bối cảnh, giới hạn và tiêu chí kiểm tra.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "VI. Nguyên tắc rút ra",
+      "style": "Heading 2"
+    },
+    {
+      "type": "p",
+      "text": "Một prompt hiệu quả cần:",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Nêu rõ nhiệm vụ.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Xác định trình độ người học.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Cung cấp bối cảnh.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Quy định hình thức đầu ra.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Yêu cầu ví dụ và giải thích.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Giới hạn nội dung AI được bổ sung.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Kiểm tra lại kanji, cách đọc và mức độ lịch sự.",
+      "style": "normal"
+    }
+  ],
+  "4": [
+    {
+      "type": "p",
+      "text": "I. Thông tin dự án",
+      "style": "Heading 2"
+    },
+    {
+      "type": "p",
+      "text": "Tên dự án: Kế hoạch học ngoại ngữ trong 7 ngày dành cho người mới bắt đầu",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Hình thức thực hiện: Mô phỏng nhóm gồm bốn thành viên.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Các thành viên:",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Nhi – Trưởng nhóm.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Trang – Phụ trách nghiên cứu.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Dương – Phụ trách nội dung.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Hà – Phụ trách thiết kế.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Thời gian thực hiện: 7 ngày.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Sản phẩm cuối: Bộ infographic hướng dẫn người mới bắt đầu học một ngoại ngữ trong 7 ngày, kèm bảng theo dõi và phần tự đánh giá.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "II. Lý do lựa chọn chủ đề",
+      "style": "Heading 2"
+    },
+    {
+      "type": "p",
+      "text": "Hiện nay, nhiều người muốn học thêm một ngoại ngữ nhưng chưa biết nên bắt đầu từ đâu. Người mới học thường lựa chọn quá nhiều tài liệu, đặt mục tiêu quá cao hoặc cố gắng học đồng thời nhiều kỹ năng. Điều này có thể làm cho quá trình học trở nên nặng nề và khó duy trì.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Nhóm lựa chọn chủ đề “Kế hoạch học ngoại ngữ trong 7 ngày” vì đây là chủ đề gần gũi, dễ áp dụng và phù hợp với sinh viên. Dự án không đặt mục tiêu giúp người học thành thạo một ngoại ngữ chỉ trong một tuần. Thay vào đó, kế hoạch giúp người mới làm quen với quá trình học, bao gồm xác định mục tiêu, học từ vựng, luyện nghe, nói, đọc, viết và tự đánh giá.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Chủ đề cũng phù hợp với yêu cầu làm việc nhóm vì nội dung có thể được chia thành nhiều phần khác nhau. Mỗi thành viên có thể đảm nhận một vai trò cụ thể như quản lý, nghiên cứu, viết nội dung và thiết kế.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "III. Mục tiêu của dự án",
+      "style": "Heading 2"
+    },
+    {
+      "type": "p",
+      "text": "Dự án hướng đến các mục tiêu sau:",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Xây dựng một kế hoạch học ngoại ngữ đơn giản trong 7 ngày.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Hướng dẫn người mới tiếp cận đầy đủ bốn kỹ năng nghe, nói, đọc và viết.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Sử dụng công cụ trực tuyến để phân công, chỉnh sửa và lưu trữ tài liệu.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Theo dõi tiến độ công việc của từng thành viên.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Rèn luyện kỹ năng trao đổi, góp ý và kiểm tra chéo trong nhóm.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Tạo ra một sản phẩm rõ ràng, dễ hiểu và có khả năng áp dụng thực tế.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "IV. Phân công nhiệm vụ",
+      "style": "Heading 2"
+    },
+    {
+      "type": "p",
+      "text": "Nhóm được mô phỏng với bốn thành viên. Mỗi người có một nhiệm vụ chính để tránh công việc bị trùng lặp.",
+      "style": "normal"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Thành viên",
+          "Vai trò",
+          "Nhiệm vụ"
+        ],
+        [
+          "Nhi",
+          "Trưởng nhóm",
+          "Lập kế hoạch, tạo bảng quản lý, giao nhiệm vụ, kiểm tra tiến độ và tổng hợp sản phẩm"
+        ],
+        [
+          "Trang",
+          "Nghiên cứu nội dung",
+          "Tìm hiểu phương pháp học từ vựng, nghe, nói, đọc và viết dành cho người mới"
+        ],
+        [
+          "Dương",
+          "Xây dựng nội dung",
+          "Viết kế hoạch học cụ thể cho từng ngày và chỉnh sửa theo góp ý"
+        ],
+        [
+          "Hà",
+          "Thiết kế và kiểm tra",
+          "Thiết kế, lựa chọn hình ảnh, kiểm tra font, bố cục và xuất sản phẩm"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Việc phân chia nhiệm vụ giúp từng thành viên hiểu rõ trách nhiệm của mình. Tuy nhiên, các thành viên vẫn kiểm tra chéo và góp ý cho phần việc của nhau trước khi hoàn thành sản phẩm.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "V. Công cụ cộng tác được sử dụng",
+      "style": "Heading 2"
+    },
+    {
+      "type": "p",
+      "text": "1. Trello",
+      "style": "Heading 3"
+    },
+    {
+      "type": "p",
+      "text": "Trello được sử dụng để phân chia và theo dõi nhiệm vụ.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Bảng Trello có bốn cột:",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "To do.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Doing.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Review.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Done.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Mỗi nhiệm vụ được tạo thành một thẻ riêng, trong đó ghi:",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Tên công việc.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Người phụ trách.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Thời hạn.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Các bước cần hoàn thành.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Bình luận và trạng thái công việc.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Ví dụ:",
+      "style": "normal"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Nhiệm vụ",
+          "Người phụ trách",
+          "Trạng thái ban đầu"
+        ],
+        [
+          "Lập kế hoạch dự án",
+          "Nhi",
+          "To do"
+        ],
+        [
+          "Tìm phương pháp học ngoại ngữ",
+          "Trang",
+          "To do"
+        ],
+        [
+          "Viết kế hoạch học trong 7 ngày",
+          "Dương",
+          "To do"
+        ],
+        [
+          "Thiết kế bộ slide",
+          "Hà",
+          "To do"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Khi thành viên bắt đầu thực hiện, thẻ được chuyển sang cột “Doing”. Sau khi hoàn thành bản nháp, thẻ được chuyển sang “Review” để thành viên khác kiểm tra. Chỉ khi đã sửa theo góp ý, nhiệm vụ mới được chuyển sang “Done”.",
+      "style": "normal"
+    },
+    {
+      "type": "image",
+      "src": "bai-4-01.png"
+    },
+    {
+      "type": "p",
+      "text": "2. Google Docs",
+      "style": "Heading 3"
+    },
+    {
+      "type": "p",
+      "text": "Google Docs được sử dụng để:",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Viết nội dung.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Tổng hợp phương pháp học ngoại ngữ.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Góp ý trực tiếp.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Theo dõi lịch sử chỉnh sửa.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Lưu nhật ký trao đổi của nhóm.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Nhờ chức năng bình luận, Trang có thể góp ý trực tiếp vào phần nội dung do Dương viết. Dương sau đó chỉnh sửa mà không cần tạo nhiều file khác nhau.",
+      "style": "normal"
+    },
+    {
+      "type": "image",
+      "src": "bai-4-02.png"
+    },
+    {
+      "type": "p",
+      "text": "3. Canva",
+      "style": "Heading 3"
+    },
+    {
+      "type": "p",
+      "text": "Canva được sử dụng để thiết kế sản phẩm cuối cùng.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Các thành viên có thể:",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Theo dõi tiến độ thiết kế.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Bình luận vào từng slide.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Đề xuất thay đổi hình ảnh hoặc nội dung.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Xem lại lịch sử các phiên bản.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Hà là người thiết kế chính, nhưng Nhi, Trang và Dương đều tham gia kiểm tra trước khi sản phẩm được hoàn thiện.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "4. Google Drive",
+      "style": "Heading 3"
+    },
+    {
+      "type": "p",
+      "text": "Google Drive được sử dụng để lưu trữ toàn bộ tài liệu của dự án.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Cấu trúc thư mục:",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Bai-4-Ke-hoach-hoc-ngoai-ngu-7-ngay",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "├── 01_Ke-hoach",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "├── 02_Noi-dung",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "├── 03_Hinh-anh",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "├── 04_Minh-chung",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "└── 05_San-pham-cuoi",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Cách sắp xếp này giúp nhóm tìm tài liệu nhanh hơn và tránh nhầm lẫn giữa bản nháp với sản phẩm cuối.",
+      "style": "normal"
+    },
+    {
+      "type": "image",
+      "src": "bai-4-03.png"
+    },
+    {
+      "type": "p",
+      "text": "VI. Quá trình thực hiện dự án",
+      "style": "Heading 2"
+    },
+    {
+      "type": "p",
+      "text": "Ngày 1: Khởi động và phân công",
+      "style": "Heading 1"
+    },
+    {
+      "type": "p",
+      "text": "Ngày 2: Nghiên cứu phương pháp học",
+      "style": "Heading 1"
+    },
+    {
+      "type": "p",
+      "text": "Ngày 3: Xây dựng nội dung ngày 1 đến ngày 3",
+      "style": "Heading 1"
+    },
+    {
+      "type": "p",
+      "text": "Ngày 4: Hoàn thiện kế hoạch bảy ngày",
+      "style": "Heading 1"
+    },
+    {
+      "type": "p",
+      "text": "Ngày 5: Thiết kế sản phẩm",
+      "style": "Heading 1"
+    },
+    {
+      "type": "p",
+      "text": "Ngày 6: Kiểm tra và hoàn thiện",
+      "style": "Heading 1"
+    },
+    {
+      "type": "p",
+      "text": "Ngày 7: Hoàn thiện và nộp sản phẩm",
+      "style": "Heading 1"
+    },
+    {
+      "type": "p",
+      "text": "VII. Sản phẩm cuối cùng",
+      "style": "Heading 2"
+    },
+    {
+      "type": "p",
+      "text": "Sản phẩm cuối là infographic hướng dẫn học ngoại ngữ trong 7 ngày. Mỗi ngày có:",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Mục tiêu.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Hoạt động.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Sản phẩm cần hoàn thành.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Kế hoạch được thiết kế cho người mới bắt đầu, thời gian học dự kiến khoảng 30–45 phút mỗi ngày.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Sản phẩm không nhằm bảo đảm người học thành thạo ngoại ngữ trong một tuần mà giúp người học hình thành thói quen và trải nghiệm đầy đủ các kỹ năng cơ bản.",
+      "style": "normal"
+    },
+    {
+      "type": "image",
+      "src": "bai-4-04.png"
+    },
+    {
+      "type": "p",
+      "text": "VIII. Đánh giá quá trình cộng tác",
+      "style": "Heading 2"
+    },
+    {
+      "type": "p",
+      "text": "1. Điểm hiệu quả",
+      "style": "Heading 3"
+    },
+    {
+      "type": "p",
+      "text": "Việc phân công nhiệm vụ rõ ràng giúp mỗi thành viên biết mình cần làm gì. Trello hỗ trợ theo dõi trạng thái công việc, còn Google Docs và Canva giúp các thành viên góp ý trực tiếp trên sản phẩm.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Google Drive giúp toàn bộ tài liệu được tổ chức rõ ràng. Việc lưu cả bản nháp và bản cuối cũng giúp theo dõi quá trình phát triển của dự án.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "2. Khó khăn",
+      "style": "Heading 3"
+    },
+    {
+      "type": "p",
+      "text": "Một số khó khăn gặp phải gồm:",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Nội dung ban đầu quá dài để đưa lên slide.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Một số hoạt động chưa phù hợp với người mới.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Có sự không thống nhất về số lượng từ và độ dài bài viết.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Một số ảnh có quá nhiều chữ.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Cần kiểm tra font và chất lượng hình ảnh sau khi xuất PDF.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "3. Cách giải quyết",
+      "style": "Heading 3"
+    },
+    {
+      "type": "p",
+      "text": "Nhóm đã:",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Rút gọn hoạt động trên info",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Giữ nội dung chi tiết trong báo cáo.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Giới hạn số từ mới.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Thống nhất thời lượng và độ dài.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Kiểm tra chéo giữa các thành viên.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Xuất thử PDF trước khi nộp.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "IX. Đánh giá đóng góp của từng thành viên",
+      "style": "normal"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Thành viên",
+          "Đóng góp"
+        ],
+        [
+          "Nhi",
+          "Tổ chức công việc, giao nhiệm vụ, kiểm tra tiến độ và hoàn thiện hồ sơ"
+        ],
+        [
+          "Trang",
+          "Tìm phương pháp, kiểm tra nội dung và phát hiện điểm chưa hợp lý"
+        ],
+        [
+          "Dương",
+          "Xây dựng kế hoạch bảy ngày và chỉnh sửa theo góp ý"
+        ],
+        [
+          "Hà",
+          "Thiết kế slide, chọn hình ảnh, kiểm tra trình bày và xuất file"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Các vai trò có sự liên kết với nhau. Phần nghiên cứu của Trang được Dương sử dụng để viết nội dung. Nội dung sau khi hoàn thiện được Hà chuyển thành slide. Nhi kiểm tra toàn bộ quy trình và bảo đảm dự án được hoàn thành đúng kế hoạch.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "X. Bài học rút ra",
+      "style": "Heading 2"
+    },
+    {
+      "type": "p",
+      "text": "Qua dự án, em nhận thấy làm việc nhóm trực tuyến không chỉ là chia công việc cho từng người. Một quy trình cộng tác hiệu quả cần có:",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Phân công cụ thể.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Thời hạn rõ ràng.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Công cụ theo dõi tiến độ.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Quy tắc đặt tên và lưu trữ file.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Hoạt động kiểm tra chéo.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Trao đổi và phản hồi thường xuyên.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Em cũng học được cách chuyển một nội dung dài thành sản phẩm trực quan, cách tiếp nhận góp ý và cách điều chỉnh kế hoạch khi phát hiện vấn đề.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Do bài tập được thực hiện theo hình thức mô phỏng, em lần lượt đảm nhận bốn vai trò Nhi, Trang, Dương và Hà. Việc này giúp em hiểu trách nhiệm của từng vị trí trong nhóm, từ lập kế hoạch đến nghiên cứu, viết nội dung và thiết kế sản phẩm.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "XI. Kết luận",
+      "style": "Heading 2"
+    },
+    {
+      "type": "p",
+      "text": "Dự án “Kế hoạch học ngoại ngữ trong 7 ngày” đã sử dụng Trello, Google Docs, Canva và Google Drive để mô phỏng một quy trình cộng tác trực tuyến.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Sản phẩm cuối cùng cung cấp một kế hoạch học đơn giản, có mục tiêu và hoạt động cụ thể cho từng ngày. Qua quá trình thực hiện, em không chỉ xây dựng được một sản phẩm học tập mà còn rèn luyện kỹ năng quản lý nhiệm vụ, tổ chức tài liệu, góp ý, chỉnh sửa và làm việc theo quy trình.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Dự án cho thấy các công cụ trực tuyến có thể hỗ trợ hiệu quả cho hoạt động nhóm khi mỗi thành viên được phân công rõ ràng và cùng tham gia kiểm tra sản phẩm.",
+      "style": "normal"
+    }
+  ],
+  "5": [
+    {
+      "type": "p",
+      "text": "1. Tên dự án : “Thiết kế infographic: Một ngày của sinh viên học tiếng Nhật”",
+      "style": "Heading 2"
+    },
+    {
+      "type": "p",
+      "text": "2. Công cụ sử dụng",
+      "style": "Heading 2"
+    },
+    {
+      "type": "p",
+      "text": "ChatGPT: tạo nội dung tiếng Nhật.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Công cụ AI tạo ảnh: tạo hình minh họa.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Canva AI: thiết kế infographic.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "3. Sử dụng ChatGPT",
+      "style": "Heading 2"
+    },
+    {
+      "type": "p",
+      "text": "Prompt",
+      "style": "Heading 3"
+    },
+    {
+      "type": "p",
+      "text": "Hãy xây dựng nội dung cho infographic “Một ngày của sinh viên học tiếng Nhật”.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Nội dung gồm bảy mốc thời gian. Mỗi mục có giờ, một câu tiếng Nhật trình độ N4, romaji và bản dịch tiếng Việt. Kiểm tra trợ từ và cách chia động từ. Không dùng câu quá dài.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Nội dung sau khi chỉnh sửa",
+      "style": "Heading 3"
+    },
+    {
+      "type": "p",
+      "text": "07:00 — 起きます。 Okimasu. Tôi thức dậy.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "08:00 — 大学へ行きます。 Daigaku e ikimasu. Tôi đi đến trường đại học.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "09:00 — 日本語の授業を受けます。 Nihongo no jugyō o ukemasu. Tôi học tiết tiếng Nhật.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "12:00 — 友達と昼ご飯を食べます。 Tomodachi to hirugohan o tabemasu. Tôi ăn trưa cùng bạn bè.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "15:00 — 図書館で漢字を勉強します。 Toshokan de kanji o benkyō shimasu. Tôi học kanji tại thư viện.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "18:00 — アルバイトをします。 Arubaito o shimasu. Tôi đi làm thêm.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "22:30 — 復習してから寝ます。 Fukushū shite kara nemasu. Tôi ôn bài rồi đi ngủ.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Em kiểm tra lại trợ từ, rút gọn câu và thống nhất cách viết thời gian.",
+      "style": "normal"
+    },
+    {
+      "type": "image",
+      "src": "bai-5-01.png"
+    },
+    {
+      "type": "p",
+      "text": "4. Sử dụng AI tạo ảnh",
+      "style": "Heading 2"
+    },
+    {
+      "type": "p",
+      "text": "Prompt",
+      "style": "Heading 3"
+    },
+    {
+      "type": "p",
+      "text": "Create seven separate illustrations showing a Japanese-language university student’s daily routine: waking up, going to university, attending Japanese class, eating lunch with friends, studying kanji in a library, working part-time and reviewing lessons before sleeping. Clean Japanese editorial style, soft blue, red and cream palette, no text or logos.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "AI tạo hình nhanh nhưng một số hình có bàn tay chưa tự nhiên và chữ giả. Em loại bỏ hình lỗi, cắt riêng từng hoạt cảnh và tự nhập toàn bộ tiếng Nhật trong Canva.",
+      "style": "normal"
+    },
+    {
+      "type": "image",
+      "src": "bai-5-02.png"
+    },
+    {
+      "type": "p",
+      "text": "5. Sử dụng Canva AI",
+      "style": "Heading 2"
+    },
+    {
+      "type": "p",
+      "text": "Em yêu cầu Canva thiết kế infographic dọc, gồm bảy mốc thời gian, hình minh họa và nội dung song ngữ. Sau đó, em:",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Thay font hỗ trợ tiếng Nhật và tiếng Việt.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Chỉnh khoảng cách giữa các mục.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Kiểm tra độ tương phản.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Giảm họa tiết thừa.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Thêm tên và mã sinh viên.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "6. So sánh công cụ",
+      "style": "Heading 2"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Công cụ",
+          "Điểm mạnh",
+          "Hạn chế"
+        ],
+        [
+          "ChatGPT",
+          "Tạo nội dung nhanh, hỗ trợ song ngữ",
+          "Có thể dùng từ hoặc trợ từ chưa phù hợp"
+        ],
+        [
+          "AI tạo ảnh",
+          "Tạo nhiều phương án minh họa",
+          "Có thể lỗi tay, chữ và chi tiết"
+        ],
+        [
+          "Canva AI",
+          "Gợi ý bố cục nhanh",
+          "Bản đầu dễ giống mẫu có sẵn"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "AI hỗ trợ tạo bản nháp, nhưng em là người lựa chọn nội dung, kiểm tra tiếng Nhật, chỉnh hình và hoàn thiện thiết kế.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "7. Kết luận",
+      "style": "Heading 2"
+    },
+    {
+      "type": "p",
+      "text": "AI giúp giảm thời gian lên ý tưởng và tạo tài nguyên. Tuy nhiên, sản phẩm cuối vẫn cần sự kiểm tra về ngôn ngữ, hình ảnh và bố cục. Không nên nộp nguyên trạng sản phẩm AI mà không chỉnh sửa.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "8. Infographic",
+      "style": "normal"
+    },
+    {
+      "type": "image",
+      "src": "bai-5-03.png"
+    }
+  ],
+  "6": [
+    {
+      "type": "p",
+      "text": "1. Phân tích định hướng của nhà trường",
+      "style": "Heading 2"
+    },
+    {
+      "type": "p",
+      "text": "Hướng dẫn công khai của Trường Đại học Ngoại ngữ – ĐHQGHN nhấn mạnh trung thực, minh bạch, tôn trọng và trách nhiệm trong nghiên cứu. Nhà trường cũng yêu cầu ghi chép quá trình nghiên cứu, rà soát đạo văn và chịu trách nhiệm về tính chính xác của kết quả.",
+      "style": "normal"
+    },
+    {
+      "type": "image",
+      "src": "bai-6-01.png"
+    },
+    {
+      "type": "p",
+      "text": "UNESCO khuyến nghị việc sử dụng AI trong giáo dục phải lấy con người làm trung tâm, bảo vệ dữ liệu cá nhân và được đánh giá về tính phù hợp đạo đức, sư phạm. AI cần hỗ trợ năng lực của người học thay vì thay thế hoạt động tư duy. UNESCO",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Từ đó, em cho rằng sinh viên có thể sử dụng AI để giải thích, góp ý và kiểm tra bản nháp nếu giảng viên cho phép. Tuy nhiên, việc yêu cầu AI hoàn thành toàn bộ bài rồi nộp như sản phẩm cá nhân là không phù hợp với liêm chính học thuật.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "2. Nhiệm vụ học tập",
+      "style": "Heading 2"
+    },
+    {
+      "type": "p",
+      "text": "Viết email bằng tiếng Nhật để xin phép giảng viên nộp bài muộn.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Bản nháp ban đầu",
+      "style": "Heading 3"
+    },
+    {
+      "type": "p",
+      "text": "先生へ こんにちは。宿題ができません。忙しいです。来週出していいですか。",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Bản nháp truyền đạt được ý chính nhưng chưa phù hợp với email học thuật vì thiếu lời giới thiệu, lý do cụ thể, cách xin phép và lời kết.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "3. Cách sử dụng AI",
+      "style": "Heading 2"
+    },
+    {
+      "type": "p",
+      "text": "Prompt 1: Phân tích lỗi",
+      "style": "Heading 3"
+    },
+    {
+      "type": "p",
+      "text": "Hãy phân tích email tiếng Nhật dưới đây. Chỉ ra vấn đề về kính ngữ, bố cục và mức độ lịch sự. Không viết lại toàn bộ email.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "AI chỉ ra rằng cách xưng hô và câu 「来週出していいですか」chưa đủ lịch sự khi gửi giảng viên.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Prompt 2: Gợi ý chỉnh sửa",
+      "style": "Heading 3"
+    },
+    {
+      "type": "p",
+      "text": "Dựa trên bản nháp của tôi, hãy đề xuất hai cách chỉnh sửa ở mức N3. Giữ nguyên thông tin, không tự tạo lý do mới. Giải thích sự khác nhau về mức độ lịch sự.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Bản được chỉnh sửa",
+      "style": "Heading 3"
+    },
+    {
+      "type": "p",
+      "text": "〇〇先生",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "お世話になっております。日本語学科一年の〇〇です。 明日締め切りの課題について、ご相談がありご連絡いたしました。",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "体調不良のため、期限までに課題を完成させることが難しい状況です。大変申し訳ございませんが、来週月曜日まで提出期限を延ばしていただくことは可能でしょうか。",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "ご迷惑をおかけして申し訳ございません。ご検討のほど、よろしくお願いいたします。",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "〇〇",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Lý do trong email phải đúng với tình huống thực tế. Không được để AI tự tạo lý do nhằm thuyết phục giảng viên.",
+      "style": "normal"
+    },
+    {
+      "type": "image",
+      "src": "bai-6-02.png"
+    },
+    {
+      "type": "p",
+      "text": "4. Cách đánh giá đầu ra",
+      "style": "Heading 2"
+    },
+    {
+      "type": "p",
+      "text": "Em thực hiện các bước:",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "So sánh kết quả AI với mẫu email trong giáo trình.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Kiểm tra kính ngữ và cách dùng từ.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Loại bỏ thông tin AI tự bổ sung.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Viết lại theo tình huống thực tế.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Lưu bản nháp và bản hoàn chỉnh.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Chịu trách nhiệm về nội dung đã gửi.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "5. Những vấn đề đạo đức",
+      "style": "Heading 2"
+    },
+    {
+      "type": "p",
+      "text": "Ranh giới giữa hỗ trợ và gian lận",
+      "style": "Heading 3"
+    },
+    {
+      "type": "p",
+      "text": "AI hỗ trợ hợp lý khi góp ý lỗi, giải thích kính ngữ hoặc đề xuất cách diễn đạt. AI trở thành công cụ gian lận khi sinh viên yêu cầu làm toàn bộ bài, nộp nguyên văn kết quả hoặc che giấu mức độ sử dụng.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Độ chính xác",
+      "style": "Heading 3"
+    },
+    {
+      "type": "p",
+      "text": "AI có thể sử dụng kính ngữ không phù hợp với quan hệ giao tiếp hoặc tạo câu đúng ngữ pháp nhưng thiếu tự nhiên. Người học phải kiểm tra kết quả bằng giáo trình, từ điển hoặc hỏi giảng viên.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Quyền riêng tư",
+      "style": "Heading 3"
+    },
+    {
+      "type": "p",
+      "text": "Không nên nhập tên thật, số điện thoại, địa chỉ, thông tin sức khỏe chi tiết hoặc nội dung trao đổi riêng tư vào công cụ AI. UNESCO đặc biệt lưu ý rủi ro về dữ liệu cá nhân khi sử dụng GenAI trong giáo dục. UNESCO",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Nguy cơ phụ thuộc",
+      "style": "Heading 3"
+    },
+    {
+      "type": "p",
+      "text": "Nếu luôn yêu cầu AI viết thay, sinh viên có thể giảm khả năng tự tạo câu, ghi nhớ kanji và lựa chọn mức độ lịch sự. Vì vậy, nên tự viết bản nháp trước rồi mới sử dụng AI để nhận góp ý.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "6. Bộ nguyên tắc cá nhân",
+      "style": "Heading 2"
+    },
+    {
+      "type": "p",
+      "text": "Kiểm tra quy định của giảng viên trước khi dùng AI.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Tự suy nghĩ và viết bản nháp trước.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Không nộp nguyên văn đầu ra AI.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Kiểm tra kanji, ngữ pháp và kính ngữ.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Công khai việc sử dụng AI khi được yêu cầu.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Không nhập dữ liệu cá nhân hoặc tài liệu mật.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "Chỉ nộp nội dung mình hiểu và có thể giải thích.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "7. Infographic",
+      "style": "Heading 2"
+    },
+    {
+      "type": "image",
+      "src": "bai-6-03.png"
+    },
+    {
+      "type": "p",
+      "text": "8. Tuyên bố sử dụng AI",
+      "style": "Heading 2"
+    },
+    {
+      "type": "p",
+      "text": "Trong quá trình thực hiện bài tập, người viết sử dụng ChatGPT để phân tích lỗi, giải thích kính ngữ và góp ý cho bản nháp. Người viết đã tự kiểm tra, chỉnh sửa và chịu trách nhiệm về nội dung cuối cùng.",
+      "style": "normal"
+    },
+    {
+      "type": "p",
+      "text": "9. Kết luận",
+      "style": "Heading 2"
+    },
+    {
+      "type": "p",
+      "text": "AI có thể hỗ trợ sinh viên Ngôn ngữ Nhật trong việc luyện viết, học từ vựng và kiểm tra kính ngữ. Tuy nhiên, người học cần giữ vai trò chủ động, kiểm chứng kết quả, bảo vệ dữ liệu và không để AI thực hiện thay toàn bộ nhiệm vụ học tập.",
+      "style": "normal"
+    }
+  ]
+}
